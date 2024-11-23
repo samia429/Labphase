@@ -7,4 +7,3 @@ st.markdown ("""
              ### - Définition et utilité du Design
              """)
 
-
